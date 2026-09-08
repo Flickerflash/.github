@@ -1,24 +1,26 @@
-# Phi-Harmonic Pentagon — AI Governance & Evaluation Ecosystem
+# NDR Orchestration — AI Systems, Evaluation & Governance
 
-> Multi-agent governance frameworks, evaluation stacks, and Gold Star QA protocols  
-> built on NIST AI RMF · ISO 42001 · Apache 2.0
+Public research and engineering work in AI evaluation, prompt systems, multi-agent governance, provenance, CI integrity, and experimental systems design.
 
-## Active Repositories
+> **Evidence boundary:** Repository artifacts are authoritative only for what they implement and verify. Project-local tiers, agent names, governance labels, framework mappings, simulations, and successful CI runs do not constitute external certification, production readiness, or empirical efficacy unless separately established by reproducible evidence.
 
-| Repo | Purpose | Status |
-|---|---|---|
-| [junior-apogee-app](https://github.com/ndrorchestration/junior-apogee-app) | QA eval platform (OWASP-aligned) | ✅ Production |
-| [sentinel-governance](https://github.com/ndrorchestration/sentinel-governance) | CI/CD governance automation | ✅ Active |
-| [DGAF-Framework](https://github.com/ndrorchestration/DGAF-Framework) | Dynamic Governance Agentic Formation Framework | ✅ Active |
-| [ai-governance-frameworks](https://github.com/ndrorchestration/ai-governance-frameworks) | NIST + ISO 42001 reference standards | ✅ Active |
-| [3d-visualization-hub](https://github.com/ndrorchestration/3d-visualization-hub) | Phi-harmonic visualization sandbox | 🧪 Prototype |
-| [Driftwatch](https://github.com/ndrorchestration/Driftwatch) | Phi-driven drift detection simulation | 🧪 Concept |
+## Selected repositories
 
-## Agents
-**Amethyst** (meta-orchestrator) · **Apogee** (eval + optimization) · **Sentinel** (safety) · **Reciprocity** (verification)
+| Repository | Current scope |
+|---|---|
+| [DGAF-Framework](https://github.com/ndrorchestration/DGAF-Framework) | Governed multi-agent research/evaluation framework; scientific claims remain separately evidence-gated |
+| [ai-prompt-systems-portfolio](https://github.com/ndrorchestration/ai-prompt-systems-portfolio) | Public prompt-system and evaluation-specification portfolio |
+| [junior-apogee-app](https://github.com/ndrorchestration/junior-apogee-app) | Experimental AI evaluation and QA workbench |
+| [sentinel-governance](https://github.com/ndrorchestration/sentinel-governance) | Experimental CI/CD integrity and repair-boundary tooling |
+| [ai-governance-frameworks](https://github.com/ndrorchestration/ai-governance-frameworks) | Experimental governance mappings and implementation references |
+| [3d-visualization-hub](https://github.com/ndrorchestration/3d-visualization-hub) | Experimental visualization/research tooling |
 
-## Standards
-[![NIST AI RMF](https://img.shields.io/badge/Framework-NIST%20AI%20RMF-blue)](https://github.com/ndrorchestration/ai-governance-frameworks)
-[![ISO 42001](https://img.shields.io/badge/Standard-ISO%2042001-green)](https://github.com/ndrorchestration/ai-governance-frameworks)
-[![Gold Star Certified](https://img.shields.io/badge/Status-Gold%20Star%20Certified-gold)](https://github.com/ndrorchestration/junior-apogee-app)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue)](https://github.com/ndrorchestration/ai-governance-frameworks/blob/main/LICENSE)
+## Working standard
+
+Claims are separated by evidence state rather than promoted from terminology alone:
+
+**DEFINED → IMPLEMENTED → COMPUTED → VERIFIED → ATTESTED → HISTORICAL → HYPOTHESIS → UNSUPPORTED → DEPRECATED**
+
+References to NIST AI RMF, ISO/IEC 42001, OWASP, or other external frameworks are mappings or research references unless the applicable requirements and evidence independently establish more.
+
+Maintained by **Ndr / Ender Hensel** (`ndrorchestration`).
